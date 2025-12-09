@@ -26,7 +26,7 @@ Project hiện thực các bài tập từ **Exercise 1.1 đến 4.2**:
 
 Trang `Home` gom các phần demo lại để dễ chạy và kiểm tra.
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - **React + Vite**
 - **React Router** (routing & code splitting)
